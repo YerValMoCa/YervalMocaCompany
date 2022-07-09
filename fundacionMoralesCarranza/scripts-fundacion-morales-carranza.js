@@ -1,0 +1,1 @@
+alert("Binvenido a Fundacion Morales Carranza");
