@@ -1,3 +1,12 @@
+@media screen and (min-width:320px max-width:576px) {
+    * {
+        width: 100%;
+        margin: 0 auto; 
+        text-align: center;
+        background-color: #d2e710;
+    }
+}
+
 * {
     margin: 0;
     text-align: center;
